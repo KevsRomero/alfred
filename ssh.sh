@@ -10,6 +10,7 @@ ip=(
 )
 eval $(ssh-agent)
 ssh-add -D
+ssh-add alfred
 for host in "${ip[$i]}"
 do
 echo "Conectando a $host"

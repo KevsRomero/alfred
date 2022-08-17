@@ -8,9 +8,5 @@ curl -O https://raw.githubusercontent.com/KevsRomero/alfred/main/winssh.sh
 curl -O https://raw.githubusercontent.com/KevsRomero/alfred/main/ssh.sh
 curl -O https://raw.githubusercontent.com/KevsRomero/alfred/main/instancias.txt
 
-# INSTALAR CLIENTE ALFRED
-
-./alfred_cli-windows-2.0.5.exe
-
 # DAR PERMISOS DE EJECUCION
 chmod 777 *.sh
