@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# INSTALAR GIT
+brew install git
+
 # INSTALAR CLIENTE ALFRED
 # curl alfred-ssh.s3.amazonaws.com/installers/install-latest.sh | bash
 
