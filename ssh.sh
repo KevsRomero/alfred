@@ -1,5 +1,5 @@
 #!/bin/bash
-cat instancias.txt 
+cat ~/instancias.txt 
 echo
 read i
 ip=(
